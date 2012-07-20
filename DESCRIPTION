@@ -1,8 +1,8 @@
 Package: SGPdata
 Type: Package
 Title: Exemplar data sets for SGP analyses.
-Version: 1.0-0.0
-Date: 2012-1-9
+Version: 2.0-0.0
+Date: 2012-7-20
 Authors@R: c(person("Damian", "Betebenner",
         email="dbetebenner@nciea.org", role=c("aut", "cre")),
         person("Adam", "Van Iwaarden",
@@ -21,6 +21,6 @@ URL: http://cran.r-project.org/web/packages/SGPdata/
 LazyLoad: Yes
 LazyData: Yes
 License: CC BY-SA 3.0 US + file LICENSE
-Packaged: 2012-01-09 13:27:57 UTC; damian
+Packaged: 2012-07-23 11:00:07 UTC; damian
 Repository: CRAN
-Date/Publication: 2012-01-10 07:25:58
+Date/Publication: 2012-07-25 15:44:02
