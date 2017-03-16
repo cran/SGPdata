@@ -1,8 +1,8 @@
 Package: SGPdata
 Type: Package
 Title: Exemplar Data Sets for SGP Analyses
-Version: 15.0-0.0
-Date: 2017-2-17
+Version: 16.0-0.0
+Date: 2017-3-14
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
             person(given="Adam", family="Van Iwaarden", email="Vaniwaarden@colorado.edu", role="aut"),
             person(given="Ben", family="Domingue", email="ben.domingue@gmail.com", role="aut"))
@@ -17,9 +17,9 @@ LazyLoad: Yes
 LazyData: Yes
 License: GPL-3
 NeedsCompilation: no
-Packaged: 2017-02-20 12:51:02 UTC; damian
+Packaged: 2017-03-15 19:09:54 UTC; damian
 Author: Damian W. Betebenner [aut, cre],
   Adam Van Iwaarden [aut],
   Ben Domingue [aut]
 Repository: CRAN
-Date/Publication: 2017-02-20 17:23:06
+Date/Publication: 2017-03-16 03:19:17
