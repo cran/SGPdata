@@ -1,14 +1,14 @@
 citHeader("To cite package 'SGPdata' in publications use:")
 
 citEntry(entry = "Manual",
-         title        = "{SGPdata}: Exemplar Data Sets for SGP Analyses.",
-         author       = "Damian W. Betebenner and Adam Van Iwaarden and Ben Domingue",
-         year         = "2017",
-         note         = "R package version 17.0-0.0",
-         url          = "https://github.com/CenterForAssessment/SGPdata/",
+         title        = "{SGPdata}: Exemplar Data Sets for Student Growth Percentiles (SGP) Analyses.",
+         author       = "Damian W. Betebenner and Adam R. Van Iwaarden and Ben Domingue",
+         year         = "2018",
+         note         = "R package version 20.0-0.0",
+         url          = "https://centerforassessment.github.io/SGPdata/",
          
-         textVersion  = paste("Damian W. Betebenner, Adam Van Iwaarden and Ben Domingue (2017).",
-                        "SGPdata: Exemplar Data Sets for SGP Analyses.",
-                        "(R package version 17.0-0.0.",
-                        "URL https://github.com/CenterForAssessment/SGPdata/")
+         textVersion  = paste("Damian W. Betebenner, Adam R. Van Iwaarden and Ben Domingue (2018).",
+                        "SGPdata: Exemplar Data Sets for Student Growth Percentile (SGP) Analyses.",
+                        "(R package version 20.0-0.0.",
+                        "URL https://centerforassessment.github.io/SGPdata/")
 )

@@ -1,25 +1,28 @@
 Package: SGPdata
 Type: Package
-Title: Exemplar Data Sets for SGP Analyses
-Version: 17.0-0.0
-Date: 2017-4-13
+Title: Exemplar Data Sets for Student Growth Percentiles (SGP) Analyses
+Version: 20.0-0.0
+Date: 2018-4-9
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
-            person(given="Adam", family="Van Iwaarden", email="Vaniwaarden@colorado.edu", role="aut"),
+            person(given=c("Adam", "R."), family="Van Iwaarden", email="avaniwaarden@gmail.com", role="aut"),
             person(given="Ben", family="Domingue", email="ben.domingue@gmail.com", role="aut"))
 Maintainer: Damian W. Betebenner <dbetebenner@nciea.org>
-Depends: R (>= 2.12)
-Suggests: SGP (>= 1.4-0.0)
-Imports: data.table (>= 1.9.6)
-Description: Data sets utilized by the SGP Package as exemplars for users to conduct their own SGP analyses.
-URL: https://cran.r-project.org/package=SGPdata,
-        https://github.com/CenterForAssessment/SGPdata
+Depends: R (>= 3.2)
+Suggests: SGP (>= 1.4-0.0), knitr, rmarkdown
+Imports: crayon, data.table (>= 1.9.6)
+Description: Data sets utilized by the 'SGP' package as exemplars for users to conduct their own student growth percentiles (SGP) analyses.
+URL: https://CenterForAssessment.github.io/SGPdata,
+        https://github.com/CenterForAssessment/SGPdata,
+        https://cran.r-project.org/package=SGPdata
+BugReports: https://github.com/CenterForAssessment/SGPdata/issues
+VignetteBuilder: knitr
 LazyLoad: Yes
 LazyData: Yes
 License: GPL-3
 NeedsCompilation: no
-Packaged: 2017-04-13 10:25:08 UTC; damian
+Packaged: 2018-04-10 12:34:39 UTC; damian
 Author: Damian W. Betebenner [aut, cre],
-  Adam Van Iwaarden [aut],
+  Adam R. Van Iwaarden [aut],
   Ben Domingue [aut]
 Repository: CRAN
-Date/Publication: 2017-04-13 22:33:40 UTC
+Date/Publication: 2018-04-10 21:46:25 UTC

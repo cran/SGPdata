@@ -1,73 +1,85 @@
-Changes in version: SGPdata_17.0-0.0
+# SGPdata 20.0-0.0
 
-  o Bumped YEAR up one to 2016_2017.
+* Bumped YEAR up one to 2017_2018.
 
-Changes in version: SGPdata_16.0-0.0
+# SGPdata 19.0-0.0
 
-  o Fixing up sgptData_LONG: Converting SCALE_SCORE from integer to numeric, rounding RASCH score to 4 decimals.
+* Change sgpData from a data.frame to a data.table to maintain consistency with other data sets in the package.
 
-Changes in version: SGPdata_15.0-0.0
+# SGPdata 18.0-0.0
 
-  o Updating sgptData_LONG with RASCH scores and bumping year up by 2.
+* Adding vignettes and building GitHub pages website.
 
-Changes in version: SGPdata_14.0-0.0
+# SGPdata 17.0-0.0
 
-  o Changing http to https.
+* Bumped YEAR up one to 2016_2017.
 
-Changes in version: SGPdata_13.0-0.0
+# SGPdata 16.0-0.0
 
-  o Fixing start-up messages.
-  o Bumped YEAR up one to 2015_2016.
-  o Upped SGP dependency to 1.4-0.0.
+* Fixing up sgptData_LONG: Converting SCALE_SCORE from integer to numeric, rounding RASCH score to 4 decimals.
 
-Changes in version: SGPdata_12.0-0.0
+# SGPdata 15.0-0.0
 
-  o Adding sgptData for modelling time dependent (SGPt) analyses.
+* Updating sgptData_LONG with RASCH scores and bumping year up by 2.
 
-Changes in version: SGPdata_11.0-0.0
+# SGPdata 14.0-0.0
 
-  o Bumped YEAR up one to 2014_2015
+* Changing http to https.
 
-Changes in version: SGPdata_10.0-0.0
+# SGPdata 13.0-0.0
 
-  o Changed ACHIEVEMENT_LEVEL to character to accomodate assessment transitions.
-  o Added version message to onLoad.
+* Fixing start-up messages.
+* Bumped YEAR up one to 2015_2016.
+* Upped SGP dependency to 1.4-0.0.
 
-Changes in version: SGPdata_9.0-0.0
+# SGPdata 12.0-0.0
 
-  o Bumped YEAR up one to 2013_2014
+* Adding sgptData for modelling time dependent (SGPt) analyses.
 
-Changes in version: SGPdata_8.0-0.0
+# SGPdata 11.0-0.0
 
-  o Changed GitHub URL for package in LICENSE
-  o Changed SCALE_SCORE in sgpData_LONG to class 'numeric'
+* Bumped YEAR up one to 2014_2015
 
-Changes in version: SGPdata_7.0-0.0
+# SGPdata 10.0-0.0
 
-  o Updated YEAR to 2012_2013
+* Changed ACHIEVEMENT_LEVEL to character to accomodate assessment transitions.
+* Added version message to onLoad.
 
-Changes in version: SGPdata_6.0-0.0
+# SGPdata 9.0-0.0
 
-  o Separated Instructor lookup data from sgpData_LONG to a separate table sgpData_INSTRUCTOR_NUMBER
+* Bumped YEAR up one to 2013_2014
 
-Changes in version: SGPdata_5.0-0.0
+# SGPdata 8.0-0.0
 
-  o Updated CITATION and LICENSE
+* Changed GitHub URL for package in LICENSE
+* Changed SCALE_SCORE in sgpData_LONG to class 'numeric'
 
-Changes in version: SGPdata_4.0-0.0
+# SGPdata 7.0-0.0
 
-  o Changed class of GRADE in sgpData_LONG to character.
+* Updated YEAR to 2012_2013
 
-Changes in version: SGPdata_3.0-0.0
+# SGPdata 6.0-0.0
 
-  o Changed class of ID in sgpData_LONG to character.
+* Separated Instructor lookup data from sgpData_LONG to a separate table sgpData_INSTRUCTOR_NUMBER
 
-Changes in version: SGPdata_2.0-0.0
+# SGPdata 5.0-0.0
 
-  o Updated YEAR in sgpData_LONG.
-  o Changed VALID_CASE, CONTENT_AREA, and YEAR to character from factor.
-  o Updated URL in CITATION to github.
+* Updated CITATION and LICENSE
 
-Changes in version: SGPdata_1.0-0.0
+# SGPdata 4.0-0.0
 
-  o Package Released containing separate sgpData and sgpData_LONG data sets from SGP package.
+* Changed class of GRADE in sgpData_LONG to character.
+
+# SGPdata 3.0-0.0
+
+* Changed class of ID in sgpData_LONG to character.
+
+# SGPdata 2.0-0.0
+
+* Updated YEAR in sgpData_LONG.
+* Changed VALID_CASE, CONTENT_AREA, and YEAR to character from factor.
+* Updated URL in CITATION to github.
+
+# SGPdata 1.0-0.0
+
+* Package Released containing separate sgpData and sgpData_LONG data sets from SGP package.
