@@ -19,9 +19,8 @@ both at the aggregate (e.g., school) and individual level.
     \item{\code{IEP_STATUS}}{Student Individual Education Plan status}
     \item{\code{GRADE}}{Grade level of student observation}
     \item{\code{SCALE_SCORE}}{Student Scale Score}
+    \item{\code{SCALE_SCORE_without_COVID_IMPACT}}{Student Scale Score without COVID impact. Original scale score}
     \item{\code{ACHIEVEMENT_LEVEL}}{Achievement level associated with student scale score}
-    \item{\code{PRIOR_SCORE_1_YEAR}}{Student scale score from 1 year prior (if available)}
-    \item{\code{PRIOR_SCORE_2_YEAR}}{Student scale score from 2 years prior (if available)}
     \item{\code{ETHNICITY}}{Student ethnicity}
     \item{\code{FREE_REDUCED_LUNCH_STATUS}}{Student free/reduced lunch status}
     \item{\code{ELL_STATUS}}{Student English Language Learner status}
