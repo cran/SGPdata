@@ -1,8 +1,8 @@
 Package: SGPdata
 Type: Package
 Title: Exemplar Data Sets for Student Growth Percentiles (SGP) Analyses
-Version: 27.0-0.0
-Date: 2023-10-17
+Version: 28.0-0.0
+Date: 2024-7-14
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
             person(given=c("Adam", "R."), family="Van Iwaarden", email="avaniwaarden@nciea.com", role="aut"),
             person(given="Ben", family="Domingue", email="ben.domingue@gmail.com", role="aut"))
@@ -21,9 +21,9 @@ LazyData: Yes
 LazyDataCompression: xz
 License: GPL-3
 NeedsCompilation: no
-Packaged: 2023-10-17 23:27:49 UTC; conet
+Packaged: 2024-07-14 23:52:53 UTC; conet
 Author: Damian W. Betebenner [aut, cre],
   Adam R. Van Iwaarden [aut],
   Ben Domingue [aut]
 Repository: CRAN
-Date/Publication: 2023-10-18 11:20:03 UTC
+Date/Publication: 2024-07-15 07:40:05 UTC
